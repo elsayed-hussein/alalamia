@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "callUs": "Call Us Now : ",
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact Us"
+  },
+  "Index": {
+    "title": "Hello world!",
+    "hero": {
+      "PLANT": "PLANT CARE ",
+      "passion": "is our true passion!",
+      "WHENEVER": "SO WHENEVER YOU JUST FEEL YOU NEED A PROFESSIONAL HELPING HAND AT YOUR GARDEN, CALL US UP !",
+      "MORE": "FIND OUT MORE"
+    },
+    "whyvv": {
+      "Why": "Why Vermi Valley?",
+      "WELCOME": "WELCOME TO THE TOP RATED ORGANIC FERTILIZER COMPANY",
+      "After": "After years of practical (both personal and work-related) experience at hand, our team of passionate gardeners is your only option!",
+      "FIND": "FIND OUT MORE ABOUT US"
+    },
+    "Create": {
+      "CREATE": "CREATE",
+      "Perfect": "The Perfect Garden!",
+      "MORE": "FIND OUT MORE"
+    },
+    "Perform": {
+      "perform": "Perform to the",
+      "Highest": "Highest Standards",
+      "garden": "With all kinds of garden design/care, lawn & plants in our range,we are your natural choice!",
+      "quote": "Get a quote"
+    },
+    "Advantages": {
+      "advantages": "Our Advantages",
+      "Creative": "Creative ideas",
+      "Serving": "Serving everyone from household owners to hotels and office, we make sure to provide a truly full-cycle range of exterior design,landscaping, and exterior remodeling services!",
+      "DECORATING": "DECORATING",
+      "time": "It does not really matter is it the Christmas time of the year or not, priming your house with some decorative elements or masonry should not and is not a seasonal fad!",
+      "DESIGN": "GARDEN DESIGN",
+      "exterior": "Did you ever consider giving your house exterior or your landscape a unique look, implementing some superb design ideas you have seen before in the magazines?",
+      "advice": "Expert advice",
+      "Regardless": "Regardless of how crazy your exterior idea is, our team of design-and-build experts will easily turn it into reality! This is true for projects of any scale!!",
+      "Friendly": "Friendly Prices",
+      "offer": "Having so much to offer, we also would love to give you the best pricing on all of our services! This means that as compared to our market rivals, our pricing is indeed fair and friendly!",
+      "SCAPES": "SOFT SCAPES",
+      "scaping": "Soft scaping is the total opposite for the hard scaping in that it is neither as long-lasting as the hard structure, nor it is made of materials that are durable."
+    },
+    "Happy": {
+      "happy": "Read What Happy Customers Have to Say!",
+      "garden": "As I have just never had enough time to do all of my work, home chores and the garden care tasks, I have hired these guys to help me!",
+      "Hankers": "Alison Hankers",
+      "Seeing": "Seeing how much tidier and greener my sweet little garden has become since these guys took over, I feel incredibly thankful!",
+      "Bond": "Jane Bond",
+      "professional": "When after years of taking care of my garden all by myself I have hired these guys for a little help, I never expected them to be so professional!",
+      "Mary": "Mary heather"
+    }
+  },
+  "services": {
+    "PageTitle": "services",
+    "ORDER": "ORDER SERVICE",
+    "VermiTea": "Vermi Tea",
+    "biofertilizer": "A biofertilizer rich in beneficial bacteria and natural enzymes that increase the fertility of the land It raises the plant’s immunity and increases its activity. It is completely free of chemicals and pathogens and is suitable for any plant and strengthens growth.",
+    "EM1": "EM1",
+    "nurtured": "A biofertilizer rich in beneficial soil microorganisms!",
+    "compost": "Vermi compost",
+    "fertilizer": "An organic fertilizer that contains all the major and minor elements that the plant needs It improves soil fertility and water retention!"
+  },
+  "aboutPage": {
+    "PageTitle": "About Us",
+    "aboutTitle": "About",
+    "aboutText": "The company produces the best organic fertilizer in the world by recycling plant and animal waste by analyzing it and adding some types of bacteria and algae, then Providing it to vermicompost worms, which are a type of earthworms, which feed on these wastes and turn them into vermicompost fertilizer.",
+    "ourGoals": "Our Goals",
+    "Goal1": "Reducing the harm of environmental pollutants resulting from burning agricultural waste .",
+    "Goal2": "Producing organic fertilizer that is very safe for humans and animals and free of pathogens and weed seeds .",
+    "Goal3": "Reviving and enriching agricultural soil fertility .",
+    "Goal4": "Producing healthy crops free of chemical fertilizer residues .",
+    "Goal5": "Bridging the gap resulting from the shortage and high cost of chemical fertilizers and eliminating the negative effects they cause .",
+    "Goal6": "Producing high-quality fruits and crops suitable for export .",
+    "aboutBTN": "Contact Us"
+  },
+  "contactPage": {
+    "PageTitle": "Contact Us",
+    "help": "We are here to help you !",
+    "Telephone": "telephone",
+    "whatsapp": "whatsapp",
+    "email": "email",
+    "FaceBook": "facebook",
+    "youtube": "youtube",
+    "instagram": "instagram"
+  }
+}
